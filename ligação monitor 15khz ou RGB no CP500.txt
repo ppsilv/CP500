@@ -1,0 +1,23 @@
+No conector de vídeo a partir do computador:
+
+  (computador)
+   | | | | | |
+  -------------
+ |_____________|
+   1 2 3 4 5 6
+  (para o cabo)   
+ 
+Pino 1 - Sinal de ví­deo (~4.320V)
+Pino 2 - Não conectado
+Pino 3 - Vsync (59.98Hz, 4.640V)
+Pino 4 - Hsync (15.84Khz, 4.640V)
+Pino 5 - GND
+ 
+ 
+ O sinal de vídeo precisa escolher em qual canal ligar: R, G ou B (ou uma combinação deles)
+ 
+ Se juntar os 3 fica branco
+ Se juntar R e G fica um âmbar (no monitor 1721)
+ 
+ 
+ 
